@@ -10,6 +10,7 @@ Small exercises where I test one idea at a time, and small tools I try to build 
 
 - **quantum_password.py**: a password generator that draws its randomness from quantum measurements instead of the predictable randomness an ordinary computer uses.
   Full write-up: https://rayan-quantum.hashnode.dev/
+https://github.com/rayan-quantum-computing/quantum-password-
 
 More projects will be added here as I finish them.
 
