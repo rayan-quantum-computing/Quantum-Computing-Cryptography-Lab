@@ -9,8 +9,10 @@ Small exercises where I test one idea at a time, and small tools I try to build 
 ## Projects
 
 - **quantum_password.py**: a password generator that draws its randomness from quantum measurements instead of the predictable randomness an ordinary computer uses.
--Full write-up: https://rayan-quantum.hashnode.dev/
--Link: https://github.com/rayan-quantum-computing/quantum-password-
+
+Full write-up: https://rayan-quantum.hashnode.dev/
+
+Link: https://github.com/rayan-quantum-computing/quantum-password-
 
 - **one_time_pad.py**: the one cipher proven unbreakable. It XORs a message with a random key of the same length. For now the key comes from the system; my quantum generator can feed it later.
 - Full write-up: https://rayan-quantum.hashnode.dev/the-unbreakable-cipher-a-walkthrough-of-my-github-code
