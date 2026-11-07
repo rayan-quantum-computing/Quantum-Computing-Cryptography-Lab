@@ -14,7 +14,7 @@ Small exercises where I test one idea at a time, and small tools I try to build 
 Link: https://github.com/rayan-quantum-computing/quantum-password-
 
 - **one_time_pad.py**: the one cipher proven unbreakable. It XORs a message with a random key of the same length. For now the key comes from the system; my quantum generator can feed it later.
-- Full write-up: https://rayan-quantum.hashnode.dev/the-unbreakable-cipher-a-walkthrough-of-my-github-code
+Full write-up: https://rayan-quantum.hashnode.dev/the-unbreakable-cipher-a-walkthrough-of-my-github-code
 
 -  **one_time_pad_quantum.py**: the same one-time pad, but the key now comes from quantum measurements instead of the system. The bits come from a quantum simulator, not real hardware yet. To run it, keep quantum_password.py and one_time_pad.py in the same folder, and install Qiskit first with: pip install qiskit qiskit-aer. Write-up coming soon.
 
