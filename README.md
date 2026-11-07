@@ -7,7 +7,6 @@ Self-study log. I am learning quantum computing and quantum cryptography on my o
 Small exercises where I test one idea at a time, and small tools I try to build and actually finish. Every file opens with a header comment: the date, what I was testing, what I expected, and what actually came out. Attempts that failed stay in the repo. They are the ones I learn from.
 
 ## Projects
-## Projects
 
 - **quantum_password.py**: a password generator that draws its randomness from quantum measurements instead of the predictable randomness an ordinary computer uses. [Write-up](https://rayan-quantum.hashnode.dev/)
 
